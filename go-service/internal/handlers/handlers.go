@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"loglab/go-service/internal/middleware"
-	"loglab/go-service/internal/store"
+	"dz_kros/go-service/internal/middleware"
+	"dz_kros/go-service/internal/store"
 )
 
 type API struct {

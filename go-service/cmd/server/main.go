@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"loglab/go-service/internal/handlers"
-	"loglab/go-service/internal/logging"
-	"loglab/go-service/internal/middleware"
-	"loglab/go-service/internal/store"
+	"dz_kros/go-service/internal/handlers"
+	"dz_kros/go-service/internal/logging"
+	"dz_kros/go-service/internal/middleware"
+	"dz_kros/go-service/internal/store"
 )
 
 func main() {
